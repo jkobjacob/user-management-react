@@ -1,0 +1,25 @@
+{
+  "name": "user-management-react",
+  "description": "A vanilla react app that displays a list of users, add and delete them.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Sherin Jacob",
+    "url": "https://github.com/jkobjacob"
+  },
+  "private": false,
+  "dependencies": {
+    "@types/react": "17.0.20",
+    "@types/react-dom": "17.0.9",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "react-scripts-ts": "latest"
+  }
+}
